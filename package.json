@@ -1,0 +1,13 @@
+{
+  "name": "learning-mustache-test6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "git-cp": "git add . && git commit -m 'update' && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
